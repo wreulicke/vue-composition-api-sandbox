@@ -1,0 +1,42 @@
+{
+  "name": "vue-composition-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@vue/composition-api": "^0.5.0",
+    "vue": "^2.6.11"
+  },
+  "devDependencies": {
+    "@types/jest": "^25.2.1",
+    "babel-core": "^7.0.0-bridge.0",
+    "terser-webpack-plugin": "^2.3.5",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11",
+    "@typescript-eslint/eslint-plugin": "^2.27.0",
+    "@typescript-eslint/parser": "^2.27.0",
+    "@vue/test-utils": "^1.0.0-beta.33",
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.10.1",
+    "eslint-plugin-prettier": "^3.1.2",
+    "eslint-plugin-vue": "^6.2.2",
+    "html-webpack-plugin": "^4.0.4",
+    "jsdom": "^16.2.2",
+    "jest": "^25.3.0",
+    "prettier": "^2.0.4",
+    "ts-loader": "^6.2.2",
+    "ts-jest": "^25.3.1",
+    "typescript": "^3.8.3",
+    "vue-eslint-parser": "^7.0.0",
+    "vue-jest": "^3.0.5",
+    "vue-loader": "^15.9.1",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
